@@ -32,6 +32,7 @@ input{
     height: 28px;
     margin-top: 10px;
     margin-bottom: 10px;
+    margin-left: 5px;
     background-color: rgba(170, 157, 255, 0.222);
     border-color: rgba(170, 157, 255, 0.222);
     border-radius: 2%;
@@ -72,5 +73,5 @@ ul{
 }
 
 input::placeholder{
-    margin-left: 5px;
+    margin-left: 15px;
 }
