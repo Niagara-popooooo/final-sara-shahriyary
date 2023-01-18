@@ -25,10 +25,10 @@ div{
 }
 form{
     text-align: left;
-    margin-left: 40px;
+    margin-left: 30px;
 }
 input{
-    width: 300px;
+    width: 310px;
     height: 28px;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -41,10 +41,11 @@ input:hover{
     background-color: rgba(170, 157, 255, 0.429);
     border-color: white;
 }
-#money{
-    text-align: right;
+.money{
+    text-align: left;
     margin-right: 40px;
     margin-top: 15px;
+    margin-inline: 5px;
 }
 #ppl{
     margin-top: 50px;
@@ -54,7 +55,7 @@ button{
     border-radius: 100%;
     size: 10px;
     padding-top: 10px;
-    display: inline-block;
+    display: inline;
 }
 button:hover{
     background-color: rgb(196, 187, 252);
