@@ -36,6 +36,7 @@ input{
     border-color: rgba(170, 157, 255, 0.222);
     border-radius: 2%;
     color: white;
+    border-radius: 20px;
 }
 input:hover{
     background-color: rgba(170, 157, 255, 0.429);
